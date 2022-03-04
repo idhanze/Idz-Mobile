@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">IDZ Mobile</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="login">Login</string>
+    <string name="no_account">Don\'t have account? <font color="#8E8EEA">Create one</font></string>
+    <string name="have_account">Already have account? <font color="#8E8EEA">Login</font></string>
+    <string name="register">Register</string>
+
+    <!--Message-->
+    <string name="empty_message">%1$s cannot empty</string>
+    <string name="welcome_message">Hello, %1$s !</string>
+    <string name="check">Please check your input</string>
+    <string name="balance">Balance</string>
+    <string name="make_transfer">Make Transfer</string>
+    <string name="transaction_history">Transaction History</string>
+    <string name="logout">Logout</string>
+    <string name="empty_transaction">No transactions yet</string>
+    <string name="input_account_number">Input Account Number</string>
+    <string name="search">Search</string>
+    <string name="alert_exit">Tap one more to close application</string>
+    <string name="payees">Payees</string>
+    <string name="amount">Amount</string>
+    <string name="description">Description</string>
+    <string name="transfer_now">Transfer Now</string>
+    <string name="alert_connection">Please check your connectivity</string>
+    <string name="transaction_successfull">Transaction Successfull</string>
+    <string name="transaction_id">TransactionID : %1$s</string>
+    <string name="receipient">Recipient : %1$s</string>
+</resources>

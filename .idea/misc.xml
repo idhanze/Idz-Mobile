@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.144" />
+        <entry key="app/src/main/res/drawable/animated_logo.xml" value="0.144" />
+        <entry key="app/src/main/res/drawable/check_mark.xml" value="0.166" />
+        <entry key="app/src/main/res/drawable/ic_baseline_arrow_back_24.xml" value="0.166" />
+        <entry key="app/src/main/res/drawable/ic_baseline_check_circle_outline_24.xml" value="0.166" />
+        <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.144" />
+        <entry key="app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.144" />
+        <entry key="app/src/main/res/drawable/ic_logo_100.xml" value="0.144" />
+        <entry key="app/src/main/res/drawable/ic_logo_200.xml" value="0.144" />
+        <entry key="app/src/main/res/drawable/ic_logo_60.xml" value="0.144" />
+        <entry key="app/src/main/res/drawable/ic_logo_idz.xml" value="0.144" />
+        <entry key="app/src/main/res/drawable/shadow.xml" value="0.166" />
+        <entry key="app/src/main/res/layout/activity_home.xml" value="0.10180868916651128" />
+        <entry key="app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_login_register.xml" value="0.17960526315789474" />
+        <entry key="app/src/main/res/layout/activity_transfer.xml" value="0.17960526315789474" />
+        <entry key="app/src/main/res/layout/dialog_progress.xml" value="0.284375" />
+        <entry key="app/src/main/res/layout/dialog_success.xml" value="0.17960526315789474" />
+        <entry key="app/src/main/res/layout/item_dropdown_payees.xml" value="0.17960526315789474" />
+        <entry key="app/src/main/res/layout/item_section.xml" value="0.17960526315789474" />
+        <entry key="app/src/main/res/layout/item_transaction.xml" value="0.17960526315789474" />
+        <entry key="app/src/main/res/layout/login_fragment.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/register_fragment.xml" value="0.1390625" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.10048217773437498" />
+      </ProjectState>
+    </option>
+  </component>
+</project>
